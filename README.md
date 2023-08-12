@@ -1,0 +1,3 @@
+# Rothko-painting
+The repo contains a painting done using html and css...
+It tests skills pertaining usage of div's and color painting using html and css
